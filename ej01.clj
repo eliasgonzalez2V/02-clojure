@@ -1,1 +1,1 @@
-(defn tercer-angulo [] (- 180 180)) ; Falta terminar
+(defn tercer-angulo [a b] (- 180 (+ a b))) 
